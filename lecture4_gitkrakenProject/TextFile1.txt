@@ -4,3 +4,5 @@ This is text file 1.
 Edit 1: cel9@sfu.ca
 
 Edit 2: branch1 edit
+
+Edit 3: conflict
